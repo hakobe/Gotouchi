@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, GotouchiLauncher!</string>
+    <string name="app_name">Gotouchi</string>
+    <string name="menu_reload_location">位置情報を更新</string>
+    <string name="loading">位置情報を取得しています…</string>
+</resources>

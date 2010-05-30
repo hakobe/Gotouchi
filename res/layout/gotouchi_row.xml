@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="81px"
+	android:orientation="vertical" android:gravity="center_vertical">
+
+	<TextView android:id="@+id/gotouchi_name"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:gravity="top" android:visibility="visible" android:singleLine="true"
+		android:textSize="23sp" />
+		
+	<TextView android:id="@+id/gotouchi_region"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:gravity="top" android:visibility="visible" android:singleLine="true"
+		android:textSize="17sp" />
+
+</LinearLayout> 
